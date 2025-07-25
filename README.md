@@ -2,7 +2,9 @@
 
 [![Views Counter](https://komarev.com/ghpvc/?username=FrankFilippini&style=for-the-badge)](https://github.com/antonkomarev/github-profile-views-counter)
 
-Graduated in computer science and engineering at the [Alma Mater Studiorum - University of Bologna](https://www.unibo.it/en).
+Graduated in Computer Science and Engineering at the [Alma Mater Studiorum - University of Bologna](https://www.unibo.it/en).
+
+Currently pursuing a Master's degree in Artificial Intelligence at the [Alma Mater Studiorum - University of Bologna](https://corsi.unibo.it/2cycle/artificial-intelligence).
 
 ## 📖 Mottos
 
